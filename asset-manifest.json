@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BHARATHKUMARVNAIK/Travel-Journal.git/static/css/main.c81714de.css",
+    "main.js": "/BHARATHKUMARVNAIK/Travel-Journal.git/static/js/main.24417d83.js",
+    "static/media/train-station-8628867_1920.png": "/BHARATHKUMARVNAIK/Travel-Journal.git/static/media/train-station-8628867_1920.3628b8c238e2f44036da.png",
+    "static/media/river-219972_1280.jpg": "/BHARATHKUMARVNAIK/Travel-Journal.git/static/media/river-219972_1280.20235bd15a09796e34d9.jpg",
+    "index.html": "/BHARATHKUMARVNAIK/Travel-Journal.git/index.html",
+    "main.c81714de.css.map": "/BHARATHKUMARVNAIK/Travel-Journal.git/static/css/main.c81714de.css.map",
+    "main.24417d83.js.map": "/BHARATHKUMARVNAIK/Travel-Journal.git/static/js/main.24417d83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c81714de.css",
+    "static/js/main.24417d83.js"
+  ]
+}
